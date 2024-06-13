@@ -1,6 +1,6 @@
 # Mingzhe Terapines
 
-👋 Hi, I'm @mingzheTerapines, a software engineer with expertise in error analysis, infrastructure design, and high-level programming. Currently, I'm focused on **MLIR** (Multi-Level Intermediate Representation) to enhance my skills.
+👋 Hi, I'm @mingzheTerapines, a software engineer with expertise in error analysis, infrastructure design, and C++ programming. Currently, I'm focused on **MLIR** (Multi-Level Intermediate Representation) to enhance my skills.
 
 🎓 Education:
 - 2009-2012: [Nanhu School], Wuhan, Hubei, China (High School)
