@@ -3,9 +3,9 @@
 👋 Hi, I'm @mingzheTerapines, a software engineer with expertise in error analysis, infrastructure design, and high-level programming. Currently, I'm focused on **MLIR** (Multi-Level Intermediate Representation) to enhance my skills.
 
 🎓 Education:
-- 2009-2012: [Nanhu School],, Wuhan, Hubei, China (High School)
+- 2009-2012: [Nanhu School], Wuhan, Hubei, China (High School)
 - 2012-2015: [The No.1 Middle School Affiliated To Central China Normal University](https://www.hzsdyfz.com.cn/), Wuhan, Hubei, China (High School)
-- 2015-2019: [Beijing University of Posts and Telecommunications](https://en.wikipedia.org/wiki/Beijing_University_of Posts_and_Telecommunications), Beijing, China (Bachelor's Degree)
+- 2015-2019: [Beijing University of Posts and Telecommunications](https://www.bupt.edu.cn/), Beijing, China (Bachelor's Degree)
 - 2019-2021: [Northeastern University](https://www.northeastern.edu/), Boston, USA (Master's Degree)
 
 💼 Work Experience:
