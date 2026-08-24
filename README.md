@@ -1,4 +1,4 @@
-# Mingzhe Terapines
+# Mingzhe
 
 👋 Hi, I'm @mingzheTerapines, an AI-compiler software engineer with expertise in error analysis, infrastructure design, and C++ programming. Currently, I'm focused on **MLIR** (Multi-Level Intermediate Representation) to enhance my skills.
 
